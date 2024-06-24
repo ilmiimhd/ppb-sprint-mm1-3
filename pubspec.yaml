@@ -1,0 +1,116 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.0.0
+  cloud_firestore: ^4.0.0
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/psikolog_26.jpeg
+  - assets/images/attach.png
+  - assets/images/microphone.png
+  - assets/vectors/vector_10_x2.svg
+  - assets/images/page.png
+  - assets/images/chat.png
+  - assets/images/person.png
+  - assets/images/psikolog_26.jpeg
+  - assets/images/tasklist.png
+  - assets/images/more_info.png
+  - assets/vectors/vector_29_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/vector_31_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/vector_23_x2.svg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/vector_32_x2.svg
+  - assets/images/chat.png
+  - assets/images/im_jealous_21.jpeg
+  - assets/images/more_info.png
+  - assets/images/person.png
+  - assets/images/page.png
+  - assets/images/tasklist.png
+  - assets/vectors/rectangle_3_x2.svg
+  - assets/images/chat.png
+  - assets/images/images_1.jpeg
+  - assets/images/person.png
+  - assets/images/tasklist.png
+  - assets/images/page.png
+  - assets/images/more_info.png
+  - assets/vectors/vector_26_x2.svg
+  - assets/vectors/iconbell_x2.svg
+  - assets/vectors/vector_24_x2.svg
+  - assets/vectors/iconcredit_card_x2.svg
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/iconlog_out_dark_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/images/tttttt_1.png
+  - assets/images/chat.png
+  - assets/images/psikolog_26.jpeg
+  - assets/images/page.png
+  - assets/images/person.png
+  - assets/images/more_info.png
+  - assets/images/tasklist.png
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_18_x2.svg
+  - assets/vectors/vector_27_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/images/chat.png
+  - assets/images/tasklist.png
+  - assets/images/page.png
+  - assets/images/person.png
+  - assets/images/more_info.png
+  - assets/images/kiki_1.jpeg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_19_x2.svg
+  - assets/vectors/iconlog_out_light_x2.svg
+  - assets/vectors/vector_28_x2.svg
+  - assets/vectors/vector_21_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/iconcredit_card_1_x2.svg
+  - assets/vectors/iconbell_1_x2.svg
+  - assets/images/more_info.png
+  - assets/images/psikolog_26.jpeg
+  - assets/images/person.png
+  - assets/images/tasklist.png
+  - assets/images/search.png
+  - assets/images/chat.png
+  - assets/images/page.png
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_25_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/images/google.png
+  - assets/images/facebook.png
+  - assets/vectors/rectangle_461_x2.svg
+  - assets/images/facebook.png
+  - assets/images/google.png
+  - assets/vectors/rectangle_46_x2.svg
+
